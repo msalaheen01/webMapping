@@ -1,0 +1,12 @@
+Place Name,Latitude,Longitude
+Historic Navajo Bridge,	36.817623,	-111.631294
+Royal Gorge Bridge,	38.462002,	-105.324997
+Lake Pontchartrain Causeway,	30.199722,	-90.122780
+Manchac Swamp Bridge,	30.302946,	-90.405807
+Atchafalaya Basin Bridge,	30.332500,	-91.759171
+Chesapeake Bay Bridge-Tunnel,	38.991669,	-76.372223
+Jubilee Parkway,	30.665199,	-87.963699
+Brooklyn Bridge,	40.706001,	-73.997002
+Kissing Bridge,	39.025646,	-77.029900
+Sligo Creek Bridge,	39.025646,	-77.029900
+San Diego - Coronado Bridge,	32.689110,	-117.153748

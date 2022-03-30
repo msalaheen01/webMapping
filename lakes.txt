@@ -1,0 +1,71 @@
+Place Name,Latitude,Longitude
+Crowley Lake,	37.617352,	-118.739700
+Somerville Lake,	30.325556,	-96.527496
+Lake Owasso,	45.036777,	-93.123077
+Tracy Arm Fjord,	57.913952,	-133.590271
+Lake Mead,	36.146084,	-114.413155
+Salton Sea,	33.309082,	-116.119492
+Lake Powell,	37.063969,	-111.236816
+Bayou D'Arbonne, 	32.645241,	-92.232887
+Caswell Lake,	62.016670,	-149.970291
+Chocorua Lake,	43.903473,	-71.237556
+Waldo Lake, 	43.726967, -122.044472
+Big Marine Lake, 	45.221329,	-92.858215
+Lake Mendota, 	43.100948,	-89.410309
+Little Lake Howell,	28.667564,	-81.281082
+Pactola Reservoir, 	44.078682,	-103.507545
+Great Salt Lake,	41.129539,	-112.515793
+New Lake,	41.261742,	-85.553543
+Eagle Lake,	47.026531,	-95.099876
+Utah Lake, 	40.205723,	-111.813698
+Cowan Lake, 	39.386436,	-83.902954
+Lake Kissimmee,	27.914339,	-81.274796
+Togus Pond, 	44.325310,	-69.658028
+Cooley Lake,	45.000999,	-97.348167
+Shoreline Lake,	37.432785,	-122.091743
+Little Hurst Lake,	46.182892,	-89.755371
+The Great Lakes,	45.052238,	-82.484612
+Lake Okeechobee,	26.982052,	-80.781784
+Olallie Lake,	44.807903,	-121.788338
+Lake Lanier, 34.199310,	-83.991165
+Castle Lake,	40.671230,	-111.125572
+Beaver Dam Lake,	43.470364,	-88.862572
+Lake Anna, 	38.038841,	-77.742348
+Beaver Lake, 	36.355503,	-93.933792
+Taylorsville Lake, 	37.994537,	-85.238457
+Lake Winola, 	41.516228,	-75.845406
+Lake Martin, 	32.726196,	-85.945786
+Alligator Lake,	28.220451,	-81.202309
+Pine Mountain Lake,	46.825397,	-94.533249
+Cygnet Lake, 	60.679325,	-150.573105
+Lake Baldwin, 	28.573555,	-81.323013
+Lake Lanier,	34.221867,	-83.969131
+Lake Moultrie, 	33.331673,	-80.075844
+Hidden Lake,	39.817898,	-105.036766
+Carter Lake Reservoir,	40.341835,	-105.217781
+Cherry Creek Reservoir,	39.644825,	-104.845963
+Lewisville Lake,	33.114548,	-96.986618
+Dunham Lake,	45.758423,	-92.465401
+Lake Denoon,	42.845551,	-88.169388
+Lake Tahoe,	39.096848,	-120.032349
+Lake Merritt,	37.801239,	-122.258301
+Lake Harris, 	28.762733,	-81.811508
+Okatibbee Lake,	32.514626,	-88.802284
+Lake Superior,	47.723087,	-86.940720
+Soft Maple Reservoir,	43.850372,	-76.376953
+Lake Greenwood,	34.251217,	-82.016190
+Lake of the Isles,	44.956051,	-93.310493
+Hernandez Reservoir,	36.388676,	-120.828835
+Cherry Creek Reservoir, 	39.640594,	-104.844589
+Crater Lake,	42.944611,	-122.109245
+Canyon Lake, 	29.887686,	-98.254852
+Hollywood Lakes,	26.015909,	-80.120628
+Wilson Lake,	34.817184,	-87.486191
+Schlegel Lake,	40.987080,	-74.058655
+Chatfield Lake,	39.552765,	-105.079422
+San Clemente Dam, 	36.435093,	-121.710129
+Cobbosseecontee Lake,	44.252377,	-69.943100
+Lake Monona,	43.071095,	-89.355888
+Diamond Lake,	43.165874,	-122.150291
+Katherine Lake, 	47.441906,	-91.471558
+Big Lake Arrowhead,	38.502235,	-77.544548
